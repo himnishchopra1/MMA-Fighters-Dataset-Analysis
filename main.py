@@ -50,7 +50,7 @@ def visualization():
 
 
 		st.write("#### Wins By KO")
-		fig,axes = plt.subplots(nrows=1,ncols=2, figsize=(12,4))
+		fig,axes = plt.subplots(nrows=1,ncols=2, figsize=(12,7))
 
 		fig.subplots_adjust(left=None,
 		    bottom=None,
@@ -71,7 +71,7 @@ def visualization():
 
 
 		st.write("#### Wins By Decision")
-		fig,axes = plt.subplots(nrows=1,ncols=2, figsize=(12,4))
+		fig,axes = plt.subplots(nrows=1,ncols=2, figsize=(12,7))
 
 		fig.subplots_adjust(left=None,
 		    bottom=None,
