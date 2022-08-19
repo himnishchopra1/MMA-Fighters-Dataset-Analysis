@@ -19,4 +19,11 @@ Numpy
 
 #### Explaratory Data Anaylysis and Visualisation
 
-Visaluised the data
+After I clean the data I made a heatmap of the all the numeric features of the data and made several histograms to see how different features were correlated with eachother and to see how the values of each feature were distributed.
+
+The libraries used were:
+Seaborn
+Matplotlib
+
+#### Creating the web application
+After I performed exploratory data analysis I used Streamlit which is framework that can be used to make web applications for data science. There I provide a summary of my biggest insights that relate to the outcome of mma matches as well as an oppurtunity for the user to explore the findings in greater detail.
