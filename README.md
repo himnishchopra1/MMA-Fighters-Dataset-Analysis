@@ -2,7 +2,7 @@
 
 URL for application: https://himnishchopra1-mma-fighters-dataset-analysis-main-xfygfm.streamlitapp.com/
 
-In this project I am researching how the different statistics of mma fighters are related to each other and how they impact the result of a mma match. The dataset contains the statistics over 1300 mma fighters collected by myself from https://www.ufc.com/athletes/all. The cleaned data file is called mma_data.csv and anyne os free to explore the data themselves.
+In this project I am researching how the different statistics of mma fighters are related to each other and how they impact the result of a mma match. The dataset contains the statistics over 1300 mma fighters collected by myself from https://www.ufc.com/athletes/all. The cleaned data file is called mma_data.csv and anyne is free to explore the data themselves.
 
 Process:
 
