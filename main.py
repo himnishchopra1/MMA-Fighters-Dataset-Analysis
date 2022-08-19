@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 from sklearn import metrics
 
-df = pd.read_csv("FINAL2.csv")
+df = pd.read_csv("mma_data.csv")
 
 activites = ['About The Project', 'Visualization and Insights of the Data']
 option = st.sidebar.selectbox("Selection option : ", activites)
