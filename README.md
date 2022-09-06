@@ -8,7 +8,9 @@ Process:
 
 #### Data Collection
 I went to the list of fighters to get the URL's to their fighter profiles, and from there visted each url to extract 23 features that would make the raw dataset
-The framework used to scrape/collect the data was scrapy.  
+
+Framework Used to scrape/collect the data 
+- Python Scrapy 
 
 #### Feature Engineering
 The data was cleaned by:
